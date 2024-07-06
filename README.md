@@ -1,4 +1,4 @@
 # pratik
 its my first repository..
 <br>
-author- pratik khond
+author- pratik (khond18)
